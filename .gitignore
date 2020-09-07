@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+###React###
+/src/main/project-app/node_modules/
